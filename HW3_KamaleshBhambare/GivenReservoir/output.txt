@@ -1,0 +1,24 @@
+No. of elements in x and y direction are 35 and 16
+Total number of elements are 560
+Fluid Properties are, myu: 1.1 cp, rho: 63 lb/ft3, B: 1 RB/STB	s is 0
+Cell number 87 is an injector well
+Cell number 113 is an injector well
+Cell number 125 is an injector well
+Cell number 152 is an injector well
+Cell number 161 is an injector well
+Cell number 182 is an injector well
+Cell number 204 is a producer well
+Cell number 212 is an injector well
+Cell number 225 is a producer well
+Cell number 228 is a producer well
+Cell number 233 is a producer well
+Cell number 292 is a producer well
+Cell number 299 is a producer well
+Cell number 325 is a producer well
+Cell number 340 is a producer well
+Cell number 345 is a producer well
+Cell number 349 is a producer well
+Cell number 355 is an injector well
+Cell number 368 is a producer well
+Cell number 393 is an injector well
+Cell number 515 is a producer well
