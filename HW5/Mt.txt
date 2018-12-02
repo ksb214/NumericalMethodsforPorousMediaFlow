@@ -1,0 +1,18 @@
+Some students came and asked about cumulative and material balance checks. I attached the equations that are used to calculate cumulative and incremental balance checks for a 2-D slightly-compressible fluid flow problem. You can also find these equations in your textbook, Section 8.3.3. page 192.
+
+These checks are essential in reservoir simulation together with residual checks. For your problem, they are used to check if the amount of fluid injected is equal to the total fluid volume content change in all gridblocks.
+
+These checks must be done in every time step.
+-	Incremental material balance check is done for the fluid content change within a timestep.
+-	Cumulative material balance check is done for the fluid content change since the beginning of the simulation.
+
+As indicated in your assignment your code must be able to calculate these two parameters and your report must include the plots of these parameters with respect to simulation time. Reasonable material balance ratios would always be very close to 1 during the simulation.
+
+Please let me know if you have any questions regarding these calculations.
+
+Thanks,
+Emre
+
+
+
+
